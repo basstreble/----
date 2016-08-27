@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PublicMethods.cs" />
     <Compile Include="Stuff-using-tool.cs" />
     <Compile Include="Tool.cs">
       <SubType>Form</SubType>
