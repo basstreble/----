@@ -116,7 +116,7 @@ namespace auto_distribution
         private void returntool_Click(object sender, EventArgs e)
         {
             var toolGet = PublicMethods.transferToInt(ToolNo.Text);
-            if (toolGet > -1)
+            if (toolGet != -1)
             {
                 var stuffNo = stuffAndToolOnWork.FirstOrDefault(p => p.using_tool == toolGet);
                 if (stuffNo != null)
