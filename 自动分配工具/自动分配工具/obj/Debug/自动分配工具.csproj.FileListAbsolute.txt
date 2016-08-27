@@ -1,0 +1,8 @@
+C:\Users\basstreble\Desktop\工具分配\自动分配工具\自动分配工具\bin\Debug\自动分配工具.exe
+C:\Users\basstreble\Desktop\工具分配\自动分配工具\自动分配工具\bin\Debug\自动分配工具.pdb
+C:\Users\basstreble\Desktop\工具分配\自动分配工具\自动分配工具\obj\Debug\auto_distribution.Tool.resources
+C:\Users\basstreble\Desktop\工具分配\自动分配工具\自动分配工具\obj\Debug\auto_distribution.Properties.Resources.resources
+C:\Users\basstreble\Desktop\工具分配\自动分配工具\自动分配工具\obj\Debug\自动分配工具.csproj.GenerateResource.Cache
+C:\Users\basstreble\Desktop\工具分配\自动分配工具\自动分配工具\obj\Debug\自动分配工具.exe
+C:\Users\basstreble\Desktop\工具分配\自动分配工具\自动分配工具\obj\Debug\自动分配工具.pdb
+C:\Users\basstreble\Desktop\工具分配\自动分配工具\自动分配工具\obj\Debug\自动分配工具.csprojResolveAssemblyReference.cache
